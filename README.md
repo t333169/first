@@ -3,5 +3,5 @@
 検証用に作成されました。  
 
 ### About this repository
-This is a first repository.  
+This is a first repository.  
 It was created for verification.  
